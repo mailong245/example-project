@@ -4,8 +4,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.Random;
 
-//With the class , we can easily create instance, config with another campaign, easily to improve and can be used by another class
-
 public class IntegerDistribution {
 
   private final String distribution;
